@@ -115,6 +115,8 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 
 [@drmpeg](https://twitter.com/drmpeg)[W6RZ](http://www.w6rz.net/)
 
+[@CrazyDaneHacker](https://twitter.com/CrazyDaneHacker) [Crazy Danish Hacker](https://www.crazydanishhacker.com/)
+
 [jxjputaoshu](https://twitter.com/jxjputaoshu)[Jiao Xianjun (BH1RXH)'s tech blog](http://sdr-x.github.io/)
 
 [@RadioHacking](https://twitter.com/RadioHacking)
@@ -127,6 +129,8 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 
 [@Kevin2600 ](https://twitter.com/Kevin2600)
 
+[@BE_Satcom](https://twitter.com/BE_Satcom)
+
 [@lucasteske](https://twitter.com/lucasteske)
 
 [@giorgiofox](https://twitter.com/giorgiofox)
@@ -134,6 +138,10 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 [@xdzou](https://twitter.com/xdzou)
 
 [@090h](https://twitter.com/090h)
+
+[@rfspace](https://twitter.com/rfspace)
+
+[@mobios](https://twitter.com/mobios)
 
 [@lambdaprog](https://twitter.com/lambdaprog)
 
@@ -159,7 +167,35 @@ Low Frequency (125kHz) to High Frequency (13.56MHz) tags.
 ### SoftWare
 
 [TI PACKET-SNIFFER](http://www.ti.com.cn/tool/cn/packet-sniffer):The SmartRF Packet Sniffer is a PC software application that can display and store radio packets captured by a listening RF device. The capture device is connected to the PC via USB. Various RF protocols are supported.  [http://www.ti.com/tool/packet-sniffer](http://www.ti.com/tool/packet-sniffer)
-### YouTuBe Video Tutorial
+
+[libbtbb](https://github.com/greatscottgadgets/libbtbb):A Bluetooth baseband decoding library
+
+[crackle](https://github.com/mikeryan/crackle):crackle exploits a flaw in the BLE pairing process that allows an attacker to guess or very quickly brute force the TK (Temporary Key). With the TK and other data collected from the pairing process, the STK (Short Term Key) and later the LTK (Long Term Key) can be collected.
+
+[spectool](https://www.kismetwireless.net/spectools/):Spectools is a set of utilities for using various spectrum analyzer hardware. It supports the suite of Wi-Spy devices (original, 24x, 24x2, DBX, DBX2, 900, 24i) by Metageek LLC and the Ubertooth. Spectools includes userspace drivers for the hardware itself, a graphing UI built GTK and Cairo, network protocols for remote device capture, and simple utilities for developing additional tools. 
+
+[spectool-web](https://github.com/acg/spectool-web):A web viewer for WiSPY and Ubertooth spectrum data
+
+[gatttool ](http://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy):Get Started with Bluetooth Low Energy on Linux
+
+[hcitool](http://linuxcommand.org/man_pages/hcitool1.html):hcitool is used to configure Bluetooth connections and send some spe- cial command to Bluetooth devices. 
+
+[wireshark]( https://www.wireshark.org):Wireshark is the world’s foremost and widely-used network protocol analyzer. 
+### Tutorial
+
+[BLE Hacking：ble scan and sniffer withu bertooth-one/](https://cn0xroot.com/2016/06/12/ble-hacking%EF%BC%9Able-scan-and-sniffer-withubertooth-one/)
+
+[Ubertooth – Bluetooth Sniffing Updated for 2014!](https://penturalabs.wordpress.com/2014/02/20/ubertooth-updated-for-2014/)
+
+[Spectrum Tools and Ubertooth One](https://hackerific.net/2012/01/28/Spectrum-Tools-and-Ubertooth-One/)
+
+[BLE Fun With Ubertooth: Sniffing Bluetooth Smart and Cracking Its Crypto](http://blog.ice9.us/2014/01/ble-fun-with-ubertooth-sniffing.html)
+
+[Ubertooth Spectrum Analysis (Kali/Chromebook)](https://www.splitbits.com/2014/05/14/ubertooth-spectools-chromebook/)
+
+[Sniffing/logging your own Android Bluetooth traffic](http://stackoverflow.com/questions/23877761/sniffing-logging-your-own-android-bluetooth-traffic)
+
+[Installing the Ubertooth One on BT5](http://www.backtrack-linux.org/forums/showthread.php?t=41552)
 
 # ZigBee Resources
 ### SoftWare

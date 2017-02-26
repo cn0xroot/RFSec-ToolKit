@@ -1,4 +1,4 @@
-#RFSec-ToolKit V1.2
+#RFSec-ToolKit V1.3
 ##Project Description
 
 RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform,and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G  、4G LTE 、5G、NFC&RFID、ZigBee and so on.
@@ -149,13 +149,20 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 
 # NFC&RFID Resources
 ### HardWare
-[ProxMark3](https://github.com/Proxmark/proxmark3):The proxmark3 is a powerful general purpose RFID tool, the size of a deck
-of cards, designed to snoop, listen and emulate everything from
-Low Frequency (125kHz) to High Frequency (13.56MHz) tags.
+[ProxMark3](https://github.com/Proxmark/proxmark3):The proxmark3 is a powerful general purpose RFID tool, the size of a deck of cards, designed to snoop, listen and emulate everything from Low Frequency (125kHz) to High Frequency (13.56MHz) tags.
 
+[ACR122U](http://www.acs.com.hk/cn/driver/3/acr122u-usb-nfc-reader/):
 ### SoftWare
+[miguelbalboa/rfid](Arduino RFID Library for MFRC522):https://github.com/miguelbalboa/rfid
 
-### YouTuBe Video Tutorial
+[RFIDIOt](https://github.com/AdamLaurie/RFIDIOt):python RFID / NFC library & tools
+
+[RFIDler](https://github.com/ApertureLabsLtd/RFIDler):RFIDler - Software defined RFID (LF) Reader/Writer/Emulator
+### Tutorial
+
+[cn0xroot.com](https://cn0xroot.com/?s=rfid)
+
+[FreeBuf.com](http://www.freebuf.com/?s=rfid)
 
 # BLE Resources
 

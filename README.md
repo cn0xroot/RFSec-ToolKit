@@ -1,7 +1,9 @@
-#RFSec-ToolKit V1.3
+#RFSec-ToolKit V1.4
 ##Project Description
 
 RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform,and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G  、4G LTE 、5G、NFC&RFID、ZigBee and so on.
+
+#####Resources Collection by [雪碧 0xroot.com] (https://cn0xroot.com) [Twitter@cn0xroot](https://twitter.com/cn0Xroot)
 
 # SDR Resources
 ### SDR-HardWare
@@ -34,6 +36,12 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 
 [GNURadio](https://github.com/gnuradio/gnuradio):GNU Radio is a Free & Open-Source Toolkit for Software Radio [GNURadio.org](http://gnuradio.org/)
 
+[gr-recipes](https://github.com/gnuradio/gr-recipes):Main GNU Radio recipe repository for use with PyBOMBS
+
+[gr-etcetera](https://github.com/gnuradio/gr-etcetera):This repository stores additional recipes for GNU Radio.
+
+[RangeNetworks/dev](https://github.com/RangeNetworks/dev):A collection of tools to make working with the numerous software components as painless as possible.
+
 [OpenBTS](https://github.com/RangeNetworks/openbts):GSM+GPRS Radio Access Network Node
 
 [YateBTS](http://yatebts.com):YateBTS is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both GSM/GPRS SS7 MAP and LTE IMS core networks integrated in our YateUCN unified core network server.
@@ -55,10 +63,31 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 
 [gr-lte](https://github.com/kit-cel/gr-lte):The gr-lte project is an Open Source Software Package which aims to provide a GNU Radio LTE Receiver to receive, synchronize and decode LTE signals.
 
+[LTE-Cell-Scanner](https://github.com/JiaoXianjun/LTE-Cell-Scanner):OpenCL, SDR, TDD/FDD LTE cell scanner, full stack from A/D samples to SIB ASN1 messages decoded in PDSCH, (optimized for RTL-SDR HACKRF and BladeRF board) 
+
+[gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim):GPS-SDR-SIM generates GPS baseband signal data streams, which can be converted to RF using software-defined radio (SDR) platforms, such as bladeRF, HackRF, and USRP.
+
+[gr-fosphor](https://github.com/osmocom/gr-fosphor):GNURadio block for spectrum visualization using GPU
+
 [gr-nordic](https://github.com/BastilleResearch/gr-nordic):GNU Radio module and Wireshark dissector for the Nordic Semiconductor nRF24L Enhanced Shockburst protocol.
+
+[gr-lora](https://github.com/BastilleResearch/gr-lora):GNU Radio OOT module implementing the LoRa PHY
+
+[gr-ieee802-11](https://github.com/bastibl/gr-ieee802-11):IEEE 802.11 a/g/p transceiver for GNU Radio that is fitted for operation with Ettus N210s and B210s. 
+
+[gr-keyfob](https://github.com/bastibl/gr-keyfob):Transceiver for Hella wireless car key fobs.
+
+[gr-rds](https://github.com/bastibl/gr-rds):FM RDS/TMC Transceiver 
+
+[gr-radar](https://github.com/kit-cel/gr-radar):GNU Radio Radar Toolbox
 
 [gr-air-modes](https://github.com/bistromath/gr-air-modes):gr-air-modes implements a software-defined radio receiver for Mode S transponder signals, including ADS-B reports from equipped aircraft.
 
+[gr-ais](https://github.com/bistromath/gr-ais):Automatic Information System decoder for shipborne position reporting for the Gnuradio project
+
+[gr-dvbt](https://github.com/BogdanDIA/gr-dvbt):DVB-T implementation in gnuradio
+
+[gr-baz](https://github.com/balint256/gr-baz):Collection of new blocks for GNU Radio
 
 ### Environment Build Tools
 [HomeBrew](http://brew.sh):The missing package manager for macOS
@@ -72,7 +101,7 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 
 [Baudline](http://www.baudline.com):Baudline is a time-frequency browser designed for scientific visualization of the spectral domain.  Signal analysis is performed by Fourier, correlation, and raster transforms that create colorful spectrograms with vibrant detail. 
 
-[Inspectrum](https://github.com/miek/inspectrum):Offline radio signal analyser
+[Inspectrum](https://github.com/miek/inspectrum):inspectrum is a tool for analysing captured signals, primarily from software-defined radio receivers.
 
 [Dspectrum](https://github.com/tresacton/dspectrum):Automated RF/SDR Signal Analysis [Reverse Engineering]
 
@@ -92,6 +121,13 @@ Crazy Danish Hacker: [https://www.youtube.com/channel/UClg0eyJTbAZaYuz3mhwfBBQ/p
 Ettusresearch [https://www.youtube.com/user/ettusresearch/feed](https://www.youtube.com/user/ettusresearch/feed)
 
 Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?list=PL892EE6BB9D10192F](https://www.youtube.com/playlist?list=PL892EE6BB9D10192F)
+
+Gareth's SDR Tutorial [https://www.youtube.com/channel/UCYJO5ecRhbWARNcsDIFffPg](https://www.youtube.com/channel/UCYJO5ecRhbWARNcsDIFffPg)
+
+Software Defined Radio Academy [https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ ](https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ)
+
+雪碧 0xroot's SDR Hacking [https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ](https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ)
+
 ### Twitter&WEB Site
 [@rtlsdrblog](https://twitter.com/rtlsdrblog) [RTL-SDR.com](http://rtl-sdr.com)
 
@@ -105,7 +141,7 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 
 [@samykamkar](https://twitter.com/samykamkar) [Samy Kamkar](https://samy.pl/)
 
-[@cn0Xroot](https://twitter.com/cn0Xroot) [cn0xroot.com](https://cn0xroot.com)
+[@cn0Xroot](https://twitter.com/cn0Xroot) [cn0xroot.com](httpss://cn0xroot.com) [spriteking.com](http://www.spriteking.com/)
 
 [@fairwaves ](https://twitter.com/fairwaves) [fairwaves](https://fairwaves.co/blog/)
 
@@ -113,11 +149,17 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 
 [@mpeg4codec](https://twitter.com/mpeg4codec) [ICE9 Blog](http://blog.ice9.us/)
 
+[@marcnewlin](https://twitter.com/marcnewlin) [Marc Newlin](http://www.marcnewlin.me/)
+
 [@drmpeg](https://twitter.com/drmpeg)[W6RZ](http://www.w6rz.net/)
 
 [@CrazyDaneHacker](https://twitter.com/CrazyDaneHacker) [Crazy Danish Hacker](https://www.crazydanishhacker.com/)
 
-[jxjputaoshu](https://twitter.com/jxjputaoshu)[Jiao Xianjun (BH1RXH)'s tech blog](http://sdr-x.github.io/)
+[jxjputaoshu](https://twitter.com/jxjputaoshu)[Jiao Xianjun (BH1RXH)'s tech blog](http://sdr-x.github.io)
+
+[@bastillenet](https://twitter.com/bastillenet) [Bastille](https://twitter.com/bastillenet)
+
+[@embeddedsec](https://twitter.com/embeddedsec)
 
 [@RadioHacking](https://twitter.com/RadioHacking)
 
@@ -187,6 +229,14 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 
 [hcitool](http://linuxcommand.org/man_pages/hcitool1.html):hcitool is used to configure Bluetooth connections and send some spe- cial command to Bluetooth devices. 
 
+[BLE-Security](https://github.com/merculite/BLE-Security):Bluetooth door hacking scripts that require Ubertooth or other devices to passively sniff.
+
+[BLESuite](https://github.com/nccgroup/BLESuite): BLESuite is a Python package that provides an easier way to test Bluetooth Low Energy (BLE) device (By NCC Group)
+
+[BLESuite-CLI](https://github.com/nccgroup/BLESuite-CLI):BLESuite_CLI is a command line tool to enable an easier way to test Bluetooth Low Energy (BLE) devices
+
+[BLE-Replay](https://github.com/nccgroup/BLE-Replay):BLE-Replay is a Bluetooth Low Energy (BLE) peripheral assessment tool
+
 [wireshark]( https://www.wireshark.org):Wireshark is the world’s foremost and widely-used network protocol analyzer. 
 ### Tutorial
 
@@ -207,4 +257,6 @@ Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?
 # ZigBee Resources
 ### SoftWare
 [gr-ieee802-15-4](https://github.com/bastibl/gr-ieee802-15-4):IEEE 802.15.4 ZigBee Transceiver 
+
+[SecBee](https://github.com/Cognosec/SecBee):SecBee is a ZigBee security testing tool developed by Cognosec. The goal is to enable developers and security testers to test ZigBee implementations for security issues.
 

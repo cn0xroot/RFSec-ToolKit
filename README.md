@@ -90,6 +90,8 @@ Balint256:GNU Radio Tutorial Series、Cyberspectrum[https://www.youtube.com/user
 Crazy Danish Hacker: [https://www.youtube.com/channel/UClg0eyJTbAZaYuz3mhwfBBQ/playlists](https://www.youtube.com/channel/UClg0eyJTbAZaYuz3mhwfBBQ/playlists)
 
 Ettusresearch [https://www.youtube.com/user/ettusresearch/feed](https://www.youtube.com/user/ettusresearch/feed)
+
+Anders Brownworth Well Tempered Hacker[OpenBTS https://www.youtube.com/playlist?list=PL892EE6BB9D10192F](https://www.youtube.com/playlist?list=PL892EE6BB9D10192F)
 ### Twitter&WEB Site
 [@rtlsdrblog](https://twitter.com/rtlsdrblog) [RTL-SDR.com](http://rtl-sdr.com)
 
@@ -101,17 +103,37 @@ Ettusresearch [https://www.youtube.com/user/ettusresearch/feed](https://www.yout
 
 [@csete](https://twitter.com/csete) [OZ9AEC Website](http://oz9aec.net/)
 
+[@samykamkar](https://twitter.com/samykamkar) [Samy Kamkar](https://samy.pl/)
+
 [@cn0Xroot](https://twitter.com/cn0Xroot) [cn0xroot.com](https://cn0xroot.com)
 
 [@fairwaves ](https://twitter.com/fairwaves) [fairwaves](https://fairwaves.co/blog/)
 
 [@gareth__](https://twitter.com/gareth__)  [Gareth codes](https://gareth.codes/)
 
+[@mpeg4codec](https://twitter.com/mpeg4codec) [ICE9 Blog](http://blog.ice9.us/)
+
 [@drmpeg](https://twitter.com/drmpeg)[W6RZ](http://www.w6rz.net/)
+
+[jxjputaoshu](https://twitter.com/jxjputaoshu)[Jiao Xianjun (BH1RXH)'s tech blog](http://sdr-x.github.io/)
+
+[@RadioHacking](https://twitter.com/RadioHacking)
+
+[@elasticninja](https://twitter.com/elasticninja)
 
 [@devnulling](https://twitter.com/devnulling)
 
 [@uber_security](https://twitter.com/uber_security)
+
+[@Kevin2600 ](https://twitter.com/Kevin2600)
+
+[@lucasteske](https://twitter.com/lucasteske)
+
+[@giorgiofox](https://twitter.com/giorgiofox)
+
+[@xdzou](https://twitter.com/xdzou)
+
+[@090h](https://twitter.com/090h)
 
 [@lambdaprog](https://twitter.com/lambdaprog)
 
@@ -133,10 +155,13 @@ Low Frequency (125kHz) to High Frequency (13.56MHz) tags.
 
 [Ubertooth](https://github.com/greatscottgadgets/ubertooth):Ubertooth ships with a capable BLE (Bluetooth Smart) sniffer and can sniff some data from Basic Rate (BR) Bluetooth Classic connections.
 
+[TI CC2540](http://www.ti.com/product/cc2540):The CC2540 is a cost-effective, low-power, true system-on-chip (SoC) for Bluetooth low energy applications.
 ### SoftWare
 
+[TI PACKET-SNIFFER](http://www.ti.com.cn/tool/cn/packet-sniffer):The SmartRF Packet Sniffer is a PC software application that can display and store radio packets captured by a listening RF device. The capture device is connected to the PC via USB. Various RF protocols are supported.  [http://www.ti.com/tool/packet-sniffer](http://www.ti.com/tool/packet-sniffer)
 ### YouTuBe Video Tutorial
 
 # ZigBee Resources
-
+### SoftWare
+[gr-ieee802-15-4](https://github.com/bastibl/gr-ieee802-15-4):IEEE 802.15.4 ZigBee Transceiver 
 

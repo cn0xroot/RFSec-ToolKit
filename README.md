@@ -1,4 +1,4 @@
-#RFSec-ToolKit V1.5
+#RFSec-ToolKit V1.6
 ##Project Description
 
 RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform,and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G  、4G LTE 、5G、NFC&RFID、ZigBee and so on.
@@ -53,11 +53,19 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 [srsLTE](https://github.com/srsLTE/srsLTE):srsLTE is a free and open-source LTE library for SDR UE and eNodeB developed by SRS 
 
 [srsUE](https://github.com/srsLTE/srsUE):srsUE is a software radio LTE UE developed by SRS . It is written in C++ and builds upon the srsLTE library
+
 [srsGUI](https://github.com/srsLTE/srsGUI):srsGUI is a free and open-source graphics library for SDR using Qt and Qwt. The library provides a number of useful plots for graphing real and complex numbers.
 
 [IMDEA-OWL](https://git.networks.imdea.org/nicola_bui/imdeaowl/tree/master):OWL stands for Online Watcher of LTE. imdeaOWL is a free and open-source LTE control channel decoder developed by IMDEA Networks Institute and based on srsLTE, an LTE library for SDR UE and eNodeB developed by SRS 
 
 [OpenAirInterface](http://www.openairinterface.org):The OpenAirInterface Software Alliance is a non-profit consortium to develop ecosystem for open source software/hardware development for the core network and both access network and user equipment (EUTRAN) of 3GPP cellular networks. 
+
+[OsmocomBB](https://osmocom.org/projects/baseband):
+OsmocomBB is an Free Software / Open Source GSM Baseband software implementation. It intends to completely replace the need for a proprietary GSM baseband software.
+
+[OpenBSC](http://osmocom.org/projects/openbsc):This is a project aiming to create a Free Software, (A)GPL-licensed software implementations for the GSM/3GPP protocol stacks and elements.
+
+[OsmoBTS](https://osmocom.org/projects/osmobts):https://osmocom.org/projects/osmobts
 
 [gr-gsm](https://github.com/ptrkrysik/gr-gsm):Gnuradio blocks and tools for receiving GSM transmissions
 
@@ -112,6 +120,8 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 ### YouTuBe Video Tutorial
 Roberto Nóbrega: Michael Ossmann Software Defined Radio with HackRF )[https://www.youtube.com/user/liquen17/playlists](https://www.youtube.com/user/liquen17/playlists)
 
+Hardware Hacking By Samy Kamkar [https://www.youtube.com/user/s4myk](https://www.youtube.com/user/s4myk)
+
 GNURadio: GRCon [https://www.youtube.com/channel/UCceoapZVEDCQ4s8y16M7Fng] (https://www.youtube.com/channel/UCceoapZVEDCQ4s8y16M7Fng)
 
 Balint256:GNU Radio Tutorial Series、Cyberspectrum[https://www.youtube.com/user/balint256](https://www.youtube.com/user/balint256)
@@ -128,6 +138,23 @@ Software Defined Radio Academy [https://www.youtube.com/channel/UC1GAlgAQrkjeeLm
 
 雪碧 0xroot's SDR Hacking [https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ](https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ)
 
+26C3: Using OpenBSC for fuzzing of GSM handsets [https://www.youtube.com/watch?v=oGPOscdLPFQ](https://www.youtube.com/watch?v=oGPOscdLPFQ)
+
+27c3: SMS-o-Death [https://www.youtube.com/watch?v=J-lUL3E-uPc](https://www.youtube.com/watch?v=J-lUL3E-uPc)
+
+27c3: Wideband GSM Sniffing [https://www.youtube.com/watch?v=fH_fXSr-FhU&feature=youtu.be](https://www.youtube.com/watch?v=fH_fXSr-FhU&feature=youtu.be)
+28c3: Introducing Osmo-GMR [https://www.youtube.com/watch?v=BSW-V94uZZQ&feature=youtu.be](https://www.youtube.com/watch?v=BSW-V94uZZQ&feature=youtu.be)
+
+29C3: Further hacks on the Calypso platform [https://www.youtube.com/watch?v=xFjVcxMpA6c&feature=youtu.be](https://www.youtube.com/watch?v=xFjVcxMpA6c&feature=youtu.be)
+
+[FOSDEM 2014] osmocom: Overview of our SDR projects [https://www.youtube.com/watch?v=hsKvdga2eQg&feature=youtu.be](https://www.youtube.com/watch?v=hsKvdga2eQg&feature=youtu.be)
+
+Sylvain Munaut: osmo-gmr: What's up with sat-phones ?[https://www.youtube.com/watch?v=ROppOLeB6_I&feature=youtu.be](https://www.youtube.com/watch?v=ROppOLeB6_I&feature=youtu.be)
+
+DeepSec 2010 OsmocomBB A tool for GSM protocol level security analysis of GSM networks[https://www.youtube.com/watch?v=9cBJV3yTaQo&feature=youtu.be](https://www.youtube.com/watch?v=9cBJV3yTaQo&feature=youtu.be)
+
+DeepSec 2010: Targeted DOS Attack and various fun with GSM Um by Sylvain Munaut [https://www.youtube.com/watch?v=7tc4hD7ckZY&feature=youtu.be](https://www.youtube.com/watch?v=7tc4hD7ckZY&feature=youtu.be)
+
 UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96](http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96)
 
 ### Twitter&WEB Site
@@ -143,7 +170,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [@samykamkar](https://twitter.com/samykamkar) [Samy Kamkar](https://samy.pl/)
 
-[@cn0Xroot](https://twitter.com/cn0Xroot) [cn0xroot.com](httpss://cn0xroot.com) [spriteking.com](http://www.spriteking.com/)
+[@cn0Xroot](https://twitter.com/cn0Xroot) [cn0xroot.com](https://cn0xroot.com) [spriteking.com](http://www.spriteking.com/)
 
 [@fairwaves ](https://twitter.com/fairwaves) [fairwaves](https://fairwaves.co/blog/)
 
@@ -263,4 +290,10 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 [gr-ieee802-15-4](https://github.com/bastibl/gr-ieee802-15-4):IEEE 802.15.4 ZigBee Transceiver 
 
 [SecBee](https://github.com/Cognosec/SecBee):SecBee is a ZigBee security testing tool developed by Cognosec. The goal is to enable developers and security testers to test ZigBee implementations for security issues.
+
+#Thanks 
+[Axilirator](https://github.com/cn0xroot/RFSec-ToolKit/issues/1)
+
+[@vileer_com](https://twitter.com/vileer_com)
+
 

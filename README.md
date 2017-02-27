@@ -122,6 +122,8 @@ Roberto Nóbrega: Michael Ossmann Software Defined Radio with HackRF )[https://w
 
 Hardware Hacking By Samy Kamkar [https://www.youtube.com/user/s4myk](https://www.youtube.com/user/s4myk)
 
+Radio Hacking: Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016 [https://www.youtube.com/watch?v=1RipwqJG50c](https://www.youtube.com/watch?v=1RipwqJG50c)
+
 GNURadio: GRCon [https://www.youtube.com/channel/UCceoapZVEDCQ4s8y16M7Fng] (https://www.youtube.com/channel/UCceoapZVEDCQ4s8y16M7Fng)
 
 Balint256:GNU Radio Tutorial Series、Cyberspectrum[https://www.youtube.com/user/balint256](https://www.youtube.com/user/balint256)

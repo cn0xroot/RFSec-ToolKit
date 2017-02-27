@@ -228,7 +228,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [ACR122U](http://www.acs.com.hk/cn/driver/3/acr122u-usb-nfc-reader/):
 ### SoftWare
-[miguelbalboa/rfid](Arduino RFID Library for MFRC522):https://github.com/miguelbalboa/rfid
+[miguelbalboa/rfid](https://github.com/miguelbalboa/rfid):Arduino library for MFRC522 and other RFID RC522 based modules.
 
 [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt):python RFID / NFC library & tools
 

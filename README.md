@@ -164,7 +164,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [@scateu](https://twitter.com/scateu)  [HackRF.NET](http://www.hackrf.net/)
 
-[@AndrewMohawk](https://twitter.com/AndrewMohawk) [andrewmohawk.com/](http://andrewmohawk.com/)
+[@AndrewMohawk](https://twitter.com/AndrewMohawk) [andrewmohawk.com](http://andrewmohawk.com)
 
 [@bastibl](https://twitter.com/bastibl) [bastibl.net](https://www.bastibl.net/blog/)
 

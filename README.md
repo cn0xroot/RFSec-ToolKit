@@ -270,7 +270,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [BLE-Replay](https://github.com/nccgroup/BLE-Replay):BLE-Replay is a Bluetooth Low Energy (BLE) peripheral assessment tool
 
-btlejuice [https://github.com/DigitalSecurity/btlejuice](https://github.com/DigitalSecurity/btlejuice):BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy).
+ [BTLEJuice](https://github.com/DigitalSecurity/btlejuice):BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy).
 
 [wireshark]( https://www.wireshark.org):Wireshark is the world’s foremost and widely-used network protocol analyzer. 
 ### Tutorial

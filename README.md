@@ -11,7 +11,7 @@ RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktool
 
 [HackRF](https://github.com/mossmann/hackrf):low cost software radio platform [greatscottgadgets.com/](http://greatscottgadgets.com/)
 
-[BladeRF](https://github.com/Nuand/bladeRF):bladeRF USB 3.0 Superspeed Software Defined Radio Source Code [Nuand.com](http://nuand.com/)
+[BladeRF](https://github.com/Nuand/bladeRF):bladeRF is a Software Defined Radio (SDR) platform designed to enable a community of hobbyists, and professionals to explore and experiment with the multidisciplinary facets of RF communication.  [Nuand.com](http://nuand.com/)
 
 [USRP](https://github.com/EttusResearch/uhd): The USRP software defined radio products are designed for RF applications from DC to 6 GHz, including multiple antenna (MIMO) systems. [ettus.com](https://www.ettus.com/) 
 
@@ -269,6 +269,8 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 [BLESuite-CLI](https://github.com/nccgroup/BLESuite-CLI):BLESuite_CLI is a command line tool to enable an easier way to test Bluetooth Low Energy (BLE) devices
 
 [BLE-Replay](https://github.com/nccgroup/BLE-Replay):BLE-Replay is a Bluetooth Low Energy (BLE) peripheral assessment tool
+
+btlejuice [https://github.com/DigitalSecurity/btlejuice](https://github.com/DigitalSecurity/btlejuice):BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy).
 
 [wireshark]( https://www.wireshark.org):Wireshark is the world’s foremost and widely-used network protocol analyzer. 
 ### Tutorial

@@ -36,7 +36,7 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 
 [GNURadio](https://github.com/gnuradio/gnuradio):GNU Radio is a Free & Open-Source Toolkit for Software Radio [GNURadio.org](http://gnuradio.org/)
 
-[Universal Radio Hacker](https://github.com/jopohl/urh): The Universal Radio Hacker is a software for investigating unknown wireless protocols
+[Universal Radio Hacker](https://github.com/jopohl/urh): The Universal Radio Hacker is a software for investigating unknown wireless protocols [YouTuBe Tutorial](https://www.youtube.com/channel/UCqIWuCQfX00XHFiwTENI79A)
 
 [gr-recipes](https://github.com/gnuradio/gr-recipes):Main GNU Radio recipe repository for use with PyBOMBS
 
@@ -96,10 +96,6 @@ OsmocomBB is an Free Software / Open Source GSM Baseband software implementation
 [gr-ais](https://github.com/bistromath/gr-ais):Automatic Information System decoder for shipborne position reporting for the Gnuradio project
 
 [gr-dvbt](https://github.com/BogdanDIA/gr-dvbt):DVB-T implementation in gnuradio
-
-[spectrum_painter](https://github.com/polygon/spectrum_painter):A tool to converts images to IQ streams that look like this when viewed in a waterfall plot.
-
-[gr-paint](https://github.com/drmpeg/gr-paint):An OFDM Spectrum Painter for GNU Radio [ Tutorial](https://gist.github.com/drmpeg/31a9a7dd6918856aeb60)
 
 [gr-baz](https://github.com/balint256/gr-baz):Collection of new blocks for GNU Radio
 
@@ -303,6 +299,8 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 #Thanks 
 [Axilirator](https://github.com/cn0xroot/RFSec-ToolKit/issues/1)
+
+[IU5GAL](https://github.com/cn0xroot/RFSec-ToolKit/pull/2)
 
 [@vileer_com](https://twitter.com/vileer_com)
 

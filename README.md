@@ -26,6 +26,30 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 
 [CubicSDR](https://github.com/cjcliffe/CubicSDR):Cross-Platform Software-Defined Radio Application 
 
+[sdrangel](https://github.com/f4exb/sdrangel):SDR Rx/Tx software for Airspy, BladeRF, HackRF, LimeSDR, RTL-SDR, SDRplay RSP1 and FunCube
+
+[shinysdr](https://github.com/kpreid/shinysdr):Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR.
+
+[openwebrx](https://github.com/simonyiszk/openwebrx):Open source, multi-user SDR receiver software with a web interface.
+
+[luaradio](https://github.com/vsergeev/luaradio):A lightweight, embeddable software-defined radio framework built on LuaJIT.
+
+[qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer):Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, hackrf_sweep, rtl_power, rx_power and other backends)
+
+[PandwaRF](https://github.com/ComThings/PandwaRF):PandwaRF: RF analysis tool with a sub-1 GHz wireless transceiver controlled by a smartphone.
+
+[rpitx](https://github.com/F5OEO/rpitx):RF transmitter for Raspberry Pi. rpitx is a radio transmitter for Raspberry Pi (B, B+, PI2, PI3 and PI zero) that transmits RF directly to GPIO. It can handle frequencies from 5 KHz up to 500 MHz.
+
+[pifm](http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter):Turning the Raspberry Pi Into an FM Transmitter.
+
+[rpidatv](https://github.com/F5OEO/rpidatv):Digital Television Transmitter on Raspberry Pi.rpidatv is a digital television transmitter for Raspberry Pi (B,B+,PI2,PI3,Pizero) which output directly to GPIO.
+
+[PSDR](https://github.com/MichaelRColton/PSDR):PortableSDR - A Stand Alone HF Software Defined Transciever.
+
+[gr-cc11xx](https://github.com/andrepuschmann/gr-cc11xx):GNU Radio OOT module for communicating with TI CC11xx based devices.
+
+[spektrum](https://github.com/pavels/spektrum):Spektrum is spectrum analyzer software for use with rtl-sdr.
+
 [OpenUSRP](https://github.com/jocover/OpenUSRP):using LimeSDR to simulate USRP B210,OpenUSRP can using LimeSDR to simulate USRP B210 Device
 
 [kalibrate-rtl](https://github.com/steve-m/kalibrate-rtl):GSM frequency scanner and frequency offset calculator use with rtl-sdr devices
@@ -67,6 +91,10 @@ LimeSDR:LimeSDR is a low cost, open source, apps-enabled software defined radio 
 [IMDEA-OWL](https://git.networks.imdea.org/nicola_bui/imdeaowl/tree/master):OWL stands for Online Watcher of LTE. imdeaOWL is a free and open-source LTE control channel decoder developed by IMDEA Networks Institute and based on srsLTE, an LTE library for SDR UE and eNodeB developed by SRS 
 
 [OpenAirInterface](http://www.openairinterface.org):The OpenAirInterface Software Alliance is a non-profit consortium to develop ecosystem for open source software/hardware development for the core network and both access network and user equipment (EUTRAN) of 3GPP cellular networks. 
+
+[OpenAirInterface5G](https://gitlab.eurecom.fr/oai/openairinterface5g):Openairinterface 5G Wireless Implementation.
+
+[LTE Base Station Software](https://bellard.org/lte/):LTEENB allows to build a real 4G LTE base station (called an eNodeB) using a standard PC and a low cost software radio frontend. All the physical layer and protocol layer processing is done in real time inside the PC, so no dedicated LTE hardware is necessary. https://www.amarisoft.com/products-lte-ue-ots-sdr-pcie/#software
 
 [OsmocomBB](https://osmocom.org/projects/baseband):
 OsmocomBB is an Free Software / Open Source GSM Baseband software implementation. It intends to completely replace the need for a proprietary GSM baseband software.

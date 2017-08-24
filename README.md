@@ -198,6 +198,8 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 ### Twitter&WEB Site
 [@rtlsdrblog](https://twitter.com/rtlsdrblog) [RTL-SDR.com](http://rtl-sdr.com)
 
+[Wireless frequency bands](http://niviuk.free.fr/): Frequency / Arfcn caculator for LTE, UMTS, GSM and CDMA, and Carrier Aggregation combination info                                                                                                              
+
 [@scateu](https://twitter.com/scateu)  [HackRF.NET](http://www.hackrf.net/)
 
 [@AndrewMohawk](https://twitter.com/AndrewMohawk) [andrewmohawk.com](http://andrewmohawk.com)

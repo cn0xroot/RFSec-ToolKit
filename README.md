@@ -298,7 +298,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [spectool-web](https://github.com/acg/spectool-web):A web viewer for WiSPY and Ubertooth spectrum data
 
-[gatttool ](http://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energ):Get Started with Bluetooth Low Energy on Linux
+[gatttool ](http://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy):Get Started with Bluetooth Low Energy on Linux
 
 [hcitool](http://linuxcommand.org/man_pages/hcitool1.html):hcitool is used to configure Bluetooth connections and send some spe- cial command to Bluetooth devices. 
 

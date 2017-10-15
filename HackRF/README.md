@@ -28,7 +28,7 @@
 
 [永不消逝的电波（二）| HackRF入门：家用无线门铃信号重放 by cn0xroot](https://cn0xroot.com/2015/11/26/hackrf-user-guild-and-replay-doorbell-rf-signal-with-terminal/)
 
-[BTLE packet sniffer based on HACKRF By jxj (function and performance similar to TI's packet sniffer)] (http://sdr-x.github.io/BTLE-SNIFFER/)
+[BTLE packet sniffer based on HACKRF By jxj (function and performance similar to TI's packet sniffer)](http://sdr-x.github.io/BTLE-SNIFFER/)
 
 [基于HackRF的低功耗蓝牙(BTLE) Packet Sniffer/Scanner](http://www.hackrf.net/2015/11/btle-sniffer/)
 

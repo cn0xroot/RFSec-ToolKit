@@ -310,7 +310,9 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [BLE-Replay](https://github.com/nccgroup/BLE-Replay):BLE-Replay is a Bluetooth Low Energy (BLE) peripheral assessment tool
 
- [BTLEJuice](https://github.com/DigitalSecurity/btlejuice):BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy).
+[Blue-Hydra](https://github.com/pwnieexpress/blue_hydra) Bluetooth device discovery service built on top of the bluez library. BlueHydra makes use of ubertooth where available and attempts to track both classic and low energy (LE) bluetooth devices over time.
+
+[BTLEJuice](https://github.com/DigitalSecurity/btlejuice):BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy).
 
 [wireshark]( https://www.wireshark.org):Wireshark is the world’s foremost and widely-used network protocol analyzer. 
 ### Tutorial

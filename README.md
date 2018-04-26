@@ -181,7 +181,7 @@ Gareth's SDR Tutorial [https://www.youtube.com/channel/UCYJO5ecRhbWARNcsDIFffPg]
 
 Software Defined Radio Academy [https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ ](https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ)
 
-雪碧 0xroot's SDR Hacking [https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ](https://www.youtube.com/channel/UC1GAlgAQrkjeeLmIkCB8pgQ)
+雪碧 0xroot's SDR Hacking [https://www.youtube.com/channel/UCVc4stniRjRfOi1eY-0Ij2Q](https://www.youtube.com/channel/UCVc4stniRjRfOi1eY-0Ij2Q)
 
 26C3: Using OpenBSC for fuzzing of GSM handsets [https://www.youtube.com/watch?v=oGPOscdLPFQ](https://www.youtube.com/watch?v=oGPOscdLPFQ)
 
@@ -324,7 +324,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [BLE Hacking：ble scan and sniffer withu bertooth-one](https://cn0xroot.com/2016/06/12/ble-hacking%EF%BC%9Able-scan-and-sniffer-withubertooth-one/)
 
-[Ubertooth – Bluetooth Sniffing Updated for 2014!](https://penturalabs.wordpress.com/2014/02/20/ubertooth-updated-for-2014/)
+[Ubertooth – Bluetooth Sniffing Updated for 2014](https://penturalabs.wordpress.com/2014/02/20/ubertooth-updated-for-2014/)
 
 [Spectrum Tools and Ubertooth One](https://hackerific.net/2012/01/28/Spectrum-Tools-and-Ubertooth-One/)
 
@@ -343,6 +343,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 [SecBee](https://github.com/Cognosec/SecBee):SecBee is a ZigBee security testing tool developed by Cognosec. The goal is to enable developers and security testers to test ZigBee implementations for security issues.
 
 #Thanks 
+
 [Axilirator](https://github.com/cn0xroot/RFSec-ToolKit/issues/1)
 
 [@vileer_com](https://twitter.com/vileer_com)

@@ -288,6 +288,13 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt):python RFID / NFC library & tools
 
 [RFIDler](https://github.com/ApertureLabsLtd/RFIDler):RFIDler - Software defined RFID (LF) Reader/Writer/Emulator
+
+[libnfc](https://github.com/nfc-tools/libnfc):Platform independent Near Field Communication (NFC) library
+
+[mfoc](https://github.com/nfc-tools/mfoc):Mifare Classic Offline Cracker
+
+[mfcuk](https://githun.com/nfc-tools/mfcuk):Mifare Classic Universal toolKit(MFCUK)
+
 ### Tutorial
 
 [cn0xroot.com](https://cn0xroot.com/?s=rfid)

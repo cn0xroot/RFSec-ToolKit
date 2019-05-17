@@ -293,7 +293,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [mfoc](https://github.com/nfc-tools/mfoc):Mifare Classic Offline Cracker
 
-[mfcuk](https://githun.com/nfc-tools/mfcuk):Mifare Classic Universal toolKit(MFCUK)
+[mfcuk](https://github.com/nfc-tools/mfcuk):Mifare Classic Universal toolKit (MFCUK)
 
 ### Tutorial
 

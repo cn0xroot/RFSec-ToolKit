@@ -361,6 +361,10 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [SecBee](https://github.com/Cognosec/SecBee):SecBee is a ZigBee security testing tool developed by Cognosec. The goal is to enable developers and security testers to test ZigBee implementations for security issues.
 
+[Zigator](https://github.com/akestoridis/zigator) Security analysis tool for Zigbee networks
+
+[Low-Cost ZigBee Selective Jamming](https://www.bastibl.net/reactive-zigbee-jamming/)
+
 #Thanks 
 
 [Axilirator](https://github.com/cn0xroot/RFSec-ToolKit/issues/1)

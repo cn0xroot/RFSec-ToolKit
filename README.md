@@ -20,7 +20,7 @@ Some Cool things to do with SDR
 ![SDR_EN](http://www.0xroot.cn/SDR_EN.png)
 ![SDR_ZHCN](http://www.0xroot.cn/SDR_ZHCN.png)
 
-##### Resources Collection by [雪碧 0xroot.com] (https://cn0xroot.com) [Twitter@cn0xroot](https://twitter.com/cn0Xroot)
+##### Resources Collection by [雪碧 0x0root.com] (https://0x0root.com) [Twitter@0x0root](https://twitter.com/0X0root)
 
 # SDR Resources
 ### SDR-HardWare
@@ -229,7 +229,7 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 
 [@samykamkar](https://twitter.com/samykamkar) [Samy Kamkar](https://samy.pl/)
 
-[@cn0Xroot](https://twitter.com/cn0Xroot) [cn0xroot.com](https://cn0xroot.com) [spriteking.com](http://www.spriteking.com/)
+[@0X0root](https://twitter.com/0X0root) [0x0root.com](https://0x0root.com) 
 
 [@fairwaves ](https://twitter.com/fairwaves) [fairwaves](https://fairwaves.co/blog/)
 
@@ -258,8 +258,6 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 [@uber_security](https://twitter.com/uber_security)
 
 [@TresActon ](https://twitter.com/tresacton) 
-
-[@Kevin2600 ](https://twitter.com/Kevin2600)
 
 [@BE_Satcom](https://twitter.com/BE_Satcom)
 
